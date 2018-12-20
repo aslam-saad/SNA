@@ -1,2 +1,17 @@
 # SNA
-In order to know the most influential student in a college group, data was collected (via survey). Each interviewee student was asked to name the most three influential students in their group. The first name indicates the most influential ever form their perspective, then the second, then the third. The collected data was analyzed and visualized as a social network. 
+In order to know the most influential student in a college group, data was collected (via survey). Each interviewee student was asked who the most three influential students are. The first name indicates the 1st most influential from the sample perspective, the second name indicates the 2nd most influential, so on and so forth. 
+
+In the dataset: Every interviewee student was given a unique number 1, 2, 3,.. Every student the sample see as influential was given a unique letter A, B, C, ..  
+
+In the visualization: 
+The vertices were colored as follows:
+- White refers to the interviewee students 
+- Red refers to the influential students. 
+The edges were colored as follows:
+- Orange for edges refer to 1st most influential
+- Blue for edges refer to 2nd most influential
+- Grey for edges refer to 3rd most influential 
+
+![](figures/network.png)
+
+As the figure shows, student (A) is the most influential student in the group. Not only a lot of edges refer to him, but also most of these edges are colored in orange which, accroding to the edges colors, indicates that the student (A) mostly is seen as the 1st most influential.   
