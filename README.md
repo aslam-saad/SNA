@@ -4,9 +4,11 @@ In order to know the most influential student in a college group, data was colle
 In the dataset: Every interviewee student was given a unique number 1, 2, 3,.. Every student the sample see as influential was given a unique letter A, B, C, ..  
 
 In the visualization: 
+
 The vertices were colored as follows:
 - White refers to the interviewee students 
 - Red refers to the influential students. 
+
 The edges were colored as follows:
 - Orange for edges refer to 1st most influential
 - Blue for edges refer to 2nd most influential
