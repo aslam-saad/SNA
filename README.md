@@ -1,9 +1,9 @@
 # SNA
 In order to know the most influential student in a college group, data was collected (via survey), analyzed and visualized as a netwrok. 
 
-In the survey process, each interviewee student was asked who the most three influential students are. The first name indicates the 1st most influential from the sample perspective, the second name indicates the 2nd most influential, so on and so forth. 
+In the survey process, each interviewee student was asked who the most three influential students are. The first name indicates the 1st most influential from the sample perspective, the second name indicates the 2nd most influential, and so on. 
 
-In the dataset, Every interviewee student was given a unique number 1, 2, 3,.. Every student the sample see as influential was given a unique letter A, B, C, ..  
+In the dataset, Every interviewee student was given a unique number 1, 2, 3,.. Every student the sample defined as influential was given a unique letter A, B, C, ..  
 
 
 
